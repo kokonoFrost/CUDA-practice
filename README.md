@@ -1,1 +1,1 @@
-# CUDA-proactice
+# CUDA-practice
